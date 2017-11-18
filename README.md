@@ -1,17 +1,8 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+#一点点说明
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
-
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
-
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+这是[mukosame.github.io](http://mukosame.github.io)的示例代码，第一个能用的，干净的，完全可以作为模板和基础的版本
+* 感谢来自于beiyuu的设计(http://beiyuu.com/)
+* 希望你喜欢
+* 欢迎star
+* 欢迎fork
+* Happy hacking ^_^
